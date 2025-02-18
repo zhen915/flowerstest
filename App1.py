@@ -4,7 +4,7 @@ import numpy as np
 from PIL import Image
 from ultralytics import YOLO
 
-model = YOLO('best (8).pt')
+model = YOLO('best (9).pt')
 
 plant_info = {
     "Adenium_obesum": {
